@@ -1,8 +1,17 @@
-# React + Vite
+# MediaGram App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Project Description
+MediaGram App is a full-stack web application developed using the MERN (MongoDB, ExpressJS, React, NodeJS) stack. This project showcases how to set up a web application where users can view news articles, add new articles, and delete existing ones.
 
-Currently, two official plugins are available:
+![Project Preview](path_to_image.png)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+- View news articles
+- Add new news articles
+- Delete news articles
+- Switch between different article categories (Technical, Web Technology, etc.)
+
+## Prerequisites
+Before you begin, ensure you have met the following requirements:
+- Node.js and npm installed
+- MongoDB installed and running
